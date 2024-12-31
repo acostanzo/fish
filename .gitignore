@@ -1,0 +1,10 @@
+completions/*
+conf.d/*
+fish_variables
+functions/*
+themes/*
+
+!.gitignore
+!config.fish
+!fish_plugins
+!functions/aliases.fish
